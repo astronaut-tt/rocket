@@ -70,7 +70,7 @@ python asset.py -w http://testphp.vulnweb.com/FUZZ -t 5 -f dicts.txt -c 404
 
 200 <= 响应状态码 < 300时开启截图功能
 
-原网页（http://testphp.vulnweb.com/index.php）:
+原网页 => http://testphp.vulnweb.com/index.php :
 
 ![image.png](https://xzfile.aliyuncs.com/media/upload/picture/20210814164621-1943fc1c-fcdc-1.png)
 
