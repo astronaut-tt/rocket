@@ -2,9 +2,9 @@
 
 AssetDetection是一款资源探测工具，可用于发现目标站点的文件、目录、中间件等信息，亦能够进行fuzz测试，并支持剔除指定状态码（如302、404）的结果，以及对请求成功的页面进行截图
 
-截图功能采用的浏览器内核是PhantomJS（下载地址：https://npm.taobao.org/mirrors/phantomjs）
+截图功能采用的浏览器内核是PhantomJS => https://npm.taobao.org/mirrors/phantomjs
 
-配合fuzzdb（下载地址：https://github.com/fuzzdb-project/fuzzdb），效果更佳 : )
+配合fuzzdb => https://github.com/fuzzdb-project/fuzzdb 效果更佳 : )
 
 备注：此工具仅用于学习，切勿用于其它用途
 
